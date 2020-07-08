@@ -2,7 +2,7 @@
   "name": "generator-scis-vuejs-sample",
   "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT",
+  "license": "Apache 2.0",
   "dependencies": {
     "yeoman-generator": "^4.11.0"
   }
