@@ -60,7 +60,6 @@ module.exports = class extends Generator {
             '.env.dev.run',
             '.env.prod.build',
             '.eslintrc.js',
-            '.gitignore',
             '.prettierrc.js',
             'babel.config.js',
             'package.json',
